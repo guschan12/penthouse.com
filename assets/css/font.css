@@ -1,0 +1,16 @@
+@font-face {
+    font-family: LatoThin;
+    src: url(/assets/fonts/Lato2OFL/Lato-Thin.ttf);
+}
+@font-face {
+    font-family: LatoRegular;
+    src: url(/assets/fonts/Lato2OFL/Lato-Regular.ttf);
+}
+@font-face {
+    font-family: LatoBlack;
+    src: url(/assets/fonts/Lato2OFL/Lato-Black.ttf);
+}
+@font-face {
+    font-family: LatoBold;
+    src: url(/assets/fonts/Lato2OFL/Lato-Bold.ttf);
+}
