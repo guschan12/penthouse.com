@@ -1,0 +1,50 @@
+@media (max-width: 600px) {
+    .container{
+        width: 100%;
+    }
+}
+@media (max-width: 992px) {
+    .franch_wrap{
+        text-align: center;
+        max-height: 100%;
+    }
+}
+@media (min-width: 600px) {
+    .container{
+        min-width: 600px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container{
+        min-width: 992px;
+    }
+    .lw45{
+        width: 45% !important;
+    }
+    .lw55{
+        width: 55% !important;
+    }
+
+}
+
+@media (min-width: 1130px) {
+    .container{
+        min-width: 1130px;
+    }
+}
+
+
+
+@media (min-width: 991px) and (max-width: 1129px){
+    .franch_wrap{
+        padding: 15px 20px;
+        max-height: 446px;
+    }
+    .franch_logo{
+        margin-bottom: 15px;
+    }
+    .franch_logo img{
+        max-width: 133px;
+    }
+}
